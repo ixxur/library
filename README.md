@@ -1,11 +1,12 @@
-# Library - Java Project
+# Library - Java Project 
+*Oprea Ana-Maria-Ruxandra 253*
 
 Objects:
-- Person => Reader
-         => Author
-- Book   => Ebook
-         => Audiobook
-         => PublishedEdition
+- Person => Reader <br>
+         => Author  <br>
+- Book   => Ebook <br>
+         => Audiobook  <br>
+         => PublishedEdition  <br>
 - BorrowedBook 
 - Subscription
 - Date
